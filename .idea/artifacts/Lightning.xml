@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lightning">
+    <output-path>$PROJECT_DIR$/../../Testfolder Test/plugins</output-path>
+    <root id="archive" name="Lightning.jar">
+      <element id="module-output" name="testproject" />
+    </root>
+  </artifact>
+</component>

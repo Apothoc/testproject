@@ -1,0 +1,7 @@
+name: Artifactlightning
+version: ${project.version}
+main: grouplightning.artifactlightning.Artifactlightning
+api-version: 1.13
+commands:
+  ligline:
+    description: Lightning boyz!
