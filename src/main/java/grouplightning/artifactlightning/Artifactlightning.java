@@ -8,6 +8,9 @@ public final class Artifactlightning extends JavaPlugin {
     @Override
     public void onEnable() {
         getCommand("ligline").setExecutor(commandHandler);
+        getCommand("ligstorm").setExecutor(commandHandler);
+        getCommand("gaelwave").setExecutor(commandHandler);
+        getCommand("lightningstrike").setExecutor(commandHandler);
 
     }
 
